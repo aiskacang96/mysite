@@ -1,0 +1,7 @@
+---
+title: "About me"
+---
+
+- __Name:__ Syafiqah
+- __Position:__ Student
+- __Affiliation:__ FSK
